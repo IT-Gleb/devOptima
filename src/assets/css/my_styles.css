@@ -1,0 +1,21 @@
+
+@import url("./mFonts.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    body{
+        @apply bg-black_optima overflow-x-hidden min-w-[250px] min-h-[100vh] flex flex-col;
+    }
+
+.cletka {
+  background: linear-gradient(#234690, transparent 1px),
+    linear-gradient(90deg, #243bb9, transparent 1px);
+  background-size: 46.26px 46.26px;
+  background-position: top center;
+  opacity: 0.35;
+}
+}

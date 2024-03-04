@@ -1,0 +1,25 @@
+{
+  "name": "devoptimatest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "browserslist": "cover 99.5%",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@canvasjs/vue-charts": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "autoprefixer": "^10.4.17",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0",
+    "vue-tsc": "^1.8.27"
+  }
+}

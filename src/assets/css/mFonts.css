@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "AeonikR";
+    src: url("/src/assets/fonts/Aeonik/AeonikTRIAL-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "AeonikL";
+    src: url("/src/assets/fonts/Aeonik/AeonikTRIAL-Light.otf") format("opentype");
+    font-weight: 200;
+    font-style: thin;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "AeonikB";
+    src: url("/src/assets/fonts/Aeonik/AeonikTRIAL-Bold.otf") format("opentype");
+    font-weight: 800;
+    font-style: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "InterR";
+    src: url("/src/assets/fonts/Inter/Inter-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "InterB";
+    src: url("/src/assets/fonts/Inter/Inter-Bold.ttf") format("truetype");
+    font-weight: 800;
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "InterL";
+    src: url("../fonts/Inter/Inter-Regular.ttf") format("TrueType");
+    font-weight: 200;
+    font-weight: thin;
+    font-display: swap;
+ 
+}
